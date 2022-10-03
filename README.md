@@ -2,8 +2,8 @@
 
 ## Affordances | Signifiers | Feedback
 
-Affordances definem as ações que são possíveis.(<br>)
-Signifiers especificam como é que as pessoas descobrem essas possibilidades.
+Affordances definem as ações que são possíveis.<br>
+Signifiers especificam como é que as pessoas descobrem essas possibilidades.<br>
 Feedback devolve/apresenta a informação sobre o output.
 
 ### Mundo físico
