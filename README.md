@@ -1,5 +1,13 @@
 # Caderno Digital
 
+## Design de Interfaces
+# Processo em Quatro Etapas
+
+1. Identificação dos requisitos
+2. Design de alternativas
+3. Prototipagem
+4. Avaliação
+
 ## Affordances | Signifiers | Feedback
 
 **Affordances** definem as ações que são possíveis.<br>
