@@ -1,7 +1,7 @@
 # Caderno Digital
 
 ## Design de Interfaces
-# Processo em Quatro Etapas
+### Processo em Quatro Etapas
 
 1. Identificação dos requisitos
 2. Design de alternativas
