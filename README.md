@@ -20,3 +20,9 @@
 ### Mundo tecnológico
 ![affsign2](https://miro.medium.com/max/1400/0*kSj4afkV7s5A_Qsr)
 
+## Exemplo Pessoal
+
+![spotify](https://user-images.githubusercontent.com/75588930/194862483-0cff4877-f2e1-460d-b7a9-1865622c86c5.png)
+
+Na minha opinião a interface do Spotify é de extrema facilidade de navegação, sendo ao mesmo tempo bastante completa, através da página inicial consigo escolher qualquer
+playlist que pretenda ouvir, consigo ver a música atual que está a tocar, consigo mudar o volume, trocar de música e até escolher outro dispositivo para tocar a música.
