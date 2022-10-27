@@ -38,22 +38,22 @@ Quem são os utilizadores; Onde, quando, porquê, e como é que atualmente compl
 
 Dados Qualitativos (Porquê):
 
-Observação naturalista
+- Observação naturalista
 
-Grupos focais
+- Grupos focais
 
-Entrevistas
+- Entrevistas
 
 Dados Quantitativos (Quê):
 
-Inquéritos
+- Inquéritos
 
-User analytics
+- User analytics
 
 Categorias de utilizadores:
 
-Utilizadores Primários: São utilizadores que interagem diretamente com o produto;
+- Utilizadores Primários: São utilizadores que interagem diretamente com o produto;
 
-Utilizadores Secundários: São os utilizadores que obtêm alguns outpus do produto;
+- Utilizadores Secundários: São os utilizadores que obtêm alguns outpus do produto;
 
-Utilizadores Terceários: São utilizadores que não usam mas que acabam por ser afetados pelo seu design.
+- Utilizadores Terceários: São utilizadores que não usam mas que acabam por ser afetados pelo seu design.
