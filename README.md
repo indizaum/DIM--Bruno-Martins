@@ -57,3 +57,7 @@ Categorias de utilizadores:
 - Utilizadores Secundários: Obtêm informação sobre o produto;
 
 - Utilizadores Terceários: Não utilizam diretamente o produto mas são afetados pelo seu design.
+
+## Exemplo Pessoal
+
+O produto que escolhi para mostrar como exemplo destas 3 categorias de utilizadores é a plataforma Steam. Nesta aplicação os utilizadores primários são aqueles que compram jogos, jogam, usam o chat, e no geral utilizem todas as funcionalidades da aplicação. O utilizador secundário são os desenvolvedores, moderadores, etc. Enquanto que o utilizador terceário são os publishers de jogos que escolhem publicar o seu jogo, ou não, na plataforma.
