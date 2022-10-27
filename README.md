@@ -52,8 +52,8 @@ Dados Quantitativos (Quê):
 
 Categorias de utilizadores:
 
-- Utilizadores Primários: São utilizadores que interagem diretamente com o produto;
+- Utilizadores Primários: Interagem e utilizam diretamente o produto;
 
-- Utilizadores Secundários: São os utilizadores que obtêm alguns outpus do produto;
+- Utilizadores Secundários: Obtêm informação sobre o produto;
 
-- Utilizadores Terceários: São utilizadores que não usam mas que acabam por ser afetados pelo seu design.
+- Utilizadores Terceários: Não utilizam diretamente o produto mas são afetados pelo seu design.
