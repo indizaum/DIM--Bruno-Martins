@@ -75,3 +75,13 @@ Esta mudança poderá implicar:
 
 - Reconstrução de um sistema completamente novo
 
+## Exemplo Pessoal
+
+O Flashscore é um website/aplicação que oferece os resultados ao vivo de vários jogos e de diferentes desportos. Recentemente este passou por uma grande mudança de design, anteriormente este era chamado Meusresultados (website português), e no seu design era maioritariamente utilizada a cor verde. Porém ocorreu uma mudança de design, passando assim a chamar-se Flashscore (nome mundial em vez do português) e a utilizar maioritariamente uma espécie de cor azul escura.
+
+### Antes
+![image](https://user-images.githubusercontent.com/75588930/204255173-45e5a760-ebfd-4b21-a7d9-e84bee29bc98.png)
+
+### Depois
+![image](https://user-images.githubusercontent.com/75588930/204255334-5741f868-42bb-4be1-b8ea-cbdcb1bc1111.png)
+
