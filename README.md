@@ -66,7 +66,7 @@ O produto que escolhi para mostrar como exemplo destas 3 categorias de utilizado
 
 ## Novo Design
 
-Por vezes a mudança é algo difícil de aceitar, mas a maioria das vezes é algo imprescindível para o crescimento de uma aplicação. A mudança do design é um dos pontos que podem "make or break" uma aplicação, um desenvolvedor poderá pegar em todos os pontos fracos do design (análises e críticas de utilizadores) e fazer um upgrade que irá satisfazer todas as necessidades pedidas.
+Por vezes a mudança é algo difícil de aceitar, mas a maioria das vezes é algo imprescindível para o crescimento de uma aplicação. A mudança do design é um dos pontos que poderão "make or break" uma aplicação, um desenvolvedor poderá pegar em todos os pontos fracos do design (análises e críticas de utilizadores) e fazer um upgrade que irá satisfazer todas as necessidades pedidas.
 Apesar das mudanças serem maioritariamente direcionadas aos utilizadores primários, também é importante ter em mentes os utilizadores secundários e terciários.
 
 Esta mudança poderá implicar:
