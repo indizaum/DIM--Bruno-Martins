@@ -66,16 +66,16 @@ O produto que escolhi para mostrar como exemplo destas 3 categorias de utilizado
 
 ## Recolha de Dados
 
-**Considerações Éticas:
+**Considerações Éticas:**
 - Anonimato
 - Respeito das normas legais
 
-**Observação Naturalista:
+**Observação Naturalista:**
 - Observação enquanto utilizador cumpre tarefa
 - Interação praticamente nula com o utilizador
 - Registos de campos e análise qualitativa
 
-**Questionários:
+**Questionários:**
 1. Self-Report
   - Comportamento
   - Perceções
@@ -90,12 +90,12 @@ O produto que escolhi para mostrar como exemplo destas 3 categorias de utilizado
 3. Items Abertos (Análise Qualitativa)
   - Opinião escrita pelo utilizador
  
-**Grupos Focais:
+**Grupos Focais:**
  - 5 a 10 participantes
  - 2 investigadores
  - Duração máxima de 1h
 
-**Tipos de Entrevista:
+**Tipos de Entrevista:**
   - Estruturada
   - Aberta / Livre
   - Semi-estruturada
