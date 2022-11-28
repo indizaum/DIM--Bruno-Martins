@@ -64,6 +64,42 @@ O produto que escolhi para mostrar como exemplo destas 3 categorias de utilizado
 
 ![image](https://user-images.githubusercontent.com/75588930/198403368-c4036dad-92be-413d-933f-811b07676be2.png)
 
+## Recolha de Dados
+
+**Considerações Éticas:
+- Anonimato
+- Respeito das normas legais
+
+**Observação Naturalista:
+- Observação enquanto utilizador cumpre tarefa
+- Interação praticamente nula com o utilizador
+- Registos de campos e análise qualitativa
+
+**Questionários:
+1. Self-Report
+  - Comportamento
+  - Perceções
+  - Atitudes
+  - Sensações
+  
+2. Items Fechados (Análise Quantitativa)
+  - Dicotomias
+  - Escalas de Likert
+  - Listas ordenadas
+  
+3. Items Abertos (Análise Qualitativa)
+  - Opinião escrita pelo utilizador
+ 
+**Grupos Focais:
+ - 5 a 10 participantes
+ - 2 investigadores
+ - Duração máxima de 1h
+
+**Tipos de Entrevista:
+  - Estruturada
+  - Aberta / Livre
+  - Semi-estruturada
+
 ## Novo Design
 
 Por vezes a mudança é algo difícil de aceitar, mas a maioria das vezes é algo imprescindível para o crescimento de uma aplicação. A mudança do design é um dos pontos que poderão "make or break" uma aplicação, um desenvolvedor poderá pegar em todos os pontos fracos do design (análises e críticas de utilizadores) e fazer um upgrade que irá satisfazer todas as necessidades pedidas.
