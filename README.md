@@ -76,24 +76,24 @@ O produto que escolhi para mostrar como exemplo destas 3 categorias de utilizado
 - Registos de campos e análise qualitativa
 
 **Questionários:**
-1. Self-Report
-  - Comportamento
-  - Perceções
-  - Atitudes
-  - Sensações
+1. Self-Report:
+    - Comportamento
+    - Perceções
+    - Atitudes
+    - Sensações
   
 2. Items Fechados (Análise Quantitativa)
-  - Dicotomias
-  - Escalas de Likert
-  - Listas ordenadas
+    - Dicotomias
+    - Escalas de Likert
+    - Listas ordenadas
   
 3. Items Abertos (Análise Qualitativa)
-  - Opinião escrita pelo utilizador
+    - Opinião escrita pelo utilizador
  
 **Grupos Focais:**
- - 5 a 10 participantes
- - 2 investigadores
- - Duração máxima de 1h
+  - 5 a 10 participantes
+  - 2 investigadores
+  - Duração máxima de 1h
 
 **Tipos de Entrevista:**
   - Estruturada
