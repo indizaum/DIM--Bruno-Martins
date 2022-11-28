@@ -64,3 +64,4 @@ O produto que escolhi para mostrar como exemplo destas 3 categorias de utilizado
 
 ![image](https://user-images.githubusercontent.com/75588930/198403368-c4036dad-92be-413d-933f-811b07676be2.png)
 
+## Novo Design
