@@ -126,6 +126,8 @@ O Flashscore é um website/aplicação que oferece os resultados ao vivo de vár
 Sendo a minha aplicação uma espécie de "adição" ao Spotify, decidi primeiro de tudo criar uma interface que fosse bastante parecida com o Spotify, assim qualquer utilizador saberá facilmente navegar na mesma. Para isso escolhi uma palete de cores bastante semelhante. 
 
 
+![Log In](https://user-images.githubusercontent.com/75588930/209578731-2fdde1fb-b9c1-4753-a3ff-286d88e81136.png)
+
 ![Home](https://user-images.githubusercontent.com/75588930/209578590-ef7f4767-c597-407d-ba02-b83e437e6db7.png)
 
 ![Géneros](https://user-images.githubusercontent.com/75588930/209578597-b64f4ab6-403b-4459-88b2-1429999b9749.png)
