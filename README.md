@@ -121,3 +121,20 @@ O Flashscore é um website/aplicação que oferece os resultados ao vivo de vár
 ### Depois
 ![image](https://user-images.githubusercontent.com/75588930/204255334-5741f868-42bb-4be1-b8ea-cbdcb1bc1111.png)
 
+## Protótipo Alta Fidelidade
+
+Sendo a minha aplicação uma espécie de "adição" ao Spotify, decidi primeiro de tudo criar uma interface que fosse bastante parecida com o Spotify, assim qualquer utilizador saberá facilmente navegar na mesma. Para isso escolhi uma palete de cores bastante semelhante. 
+
+![Perfil](https://user-images.githubusercontent.com/75588930/209578584-dfda30c9-3a2e-4da2-bf2c-4b722b6e7a42.png)
+
+![Home](https://user-images.githubusercontent.com/75588930/209578590-ef7f4767-c597-407d-ba02-b83e437e6db7.png)
+
+![Géneros](https://user-images.githubusercontent.com/75588930/209578597-b64f4ab6-403b-4459-88b2-1429999b9749.png)
+
+![Rap](https://user-images.githubusercontent.com/75588930/209578604-526bf4c9-3ee8-446a-bc92-a6cca8a187f7.png)
+
+![Perfil Artista](https://user-images.githubusercontent.com/75588930/209578614-57c35297-7865-4b86-90d8-d7d777b8ff8c.png)
+
+![Favoritos](https://user-images.githubusercontent.com/75588930/209578624-1d49a038-0c0b-40ed-b29d-d2b7d7bc0f2a.png)
+
+![Perfil](https://user-images.githubusercontent.com/75588930/209578629-4970a460-3b8f-46d3-891f-21ba485c38ec.png)
